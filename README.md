@@ -1,2 +1,2 @@
 # MonoFuz
-Binary Monotonous Fuzzer
+Binary Monotonic Fuzzer
